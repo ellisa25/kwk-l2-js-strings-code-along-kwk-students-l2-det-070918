@@ -1,2 +1,2 @@
 // Write your code in this file!
-var currentUser = "Grace Hopper"
+const currentUser = "Grace Hopper"
